@@ -1,0 +1,36 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual environments
+.venv/
+venv/
+
+# Editors / OS
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+*.swp
+*.swo
+
+# Logs and temp files
+*.log
+tmp/
+temp/
+.cache/
+
+# Downloaded/source documents
+downloads/
+
+# Generated outputs
+data/*.csv
+data/*.json
+
+# Environment files
+.env
+.env.*
+downloads_pdf/
+data/raw/
